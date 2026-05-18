@@ -4,9 +4,9 @@ import 'package:crypto/crypto.dart';
 import 'package:http/http.dart' as http;
 
 class R2Uploader {
-  static const _accessKeyId = '125f7112e973bd63b741d1053cafb5ca';
+  static const _accessKeyId = '6fbcc23fd72731b4c210bdb95e2d7c42';
   static const _secretAccessKey =
-      '2f0d421215d9efd07c4d4d987a366fe8359360daf911435f49b7b488fbe5122a';
+      '177d3237ce1acc972ef79db1428b7fbdfc9a9859c477d8e2e8d62a011e32ec7a';
   static const _bucket = 'reptile-images';
   static const _region = 'auto';
   static const _accountId = '5afe5db71ffd2677a9780686b33f9267';
