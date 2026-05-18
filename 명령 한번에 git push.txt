@@ -1,0 +1,1 @@
+cd E:\3d-jewelry-trade && git add . && git commit -m "추가 update" && git push origin main

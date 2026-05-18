@@ -1,0 +1,7 @@
+<주얼리 플래폼>
+cd e:3d-jewelry-trade
+npm run dev
+
+<파충류>
+cd E:\retiflow
+flutter run -d chrome
