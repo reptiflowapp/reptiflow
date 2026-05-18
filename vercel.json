@@ -1,6 +1,6 @@
 {
-  "buildCommand": "git clone https://github.com/flutter/flutter.git -b stable --depth 1 flutter_sdk && flutter_sdk/bin/flutter config --enable-web && flutter_sdk/bin/flutter pub get && flutter_sdk/bin/flutter build web --release",
+  "buildCommand": "git clone https://github.com/flutter/flutter.git -b stable --depth 1 /tmp/flutter && /tmp/flutter/bin/flutter config --enable-web && /tmp/flutter/bin/flutter pub get && /tmp/flutter/bin/flutter build web --release",
   "outputDirectory": "build/web",
-  "installCommand": "echo 'skip'",
+  "installCommand": "echo installed",
   "framework": null
 }
